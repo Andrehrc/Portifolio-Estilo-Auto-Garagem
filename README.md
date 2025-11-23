@@ -1,4 +1,4 @@
-# 📂 Portfólio – Estilo Auto Garagem
+# 📂 Portfólio – Estilo Auto Garage
 
 Este repositório contém o **portfólio desenvolvido como projeto de extensão acadêmico**, sem fins lucrativos, com o objetivo de demonstrar práticas de desenvolvimento web e apresentar os serviços da empresa **Estilo Auto Garagem**, especializada em estética automotiva.
 
